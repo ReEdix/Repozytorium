@@ -1,4 +1,4 @@
-fpackage com.example.stepbystep;
+package com.example.stepbystep;
 
 import android.os.Bundle;
 import android.view.View;
