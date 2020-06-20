@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "1096249287691",
+    "firebase_url": "https://stepbystep-6631e.firebaseio.com",
+    "project_id": "stepbystep-6631e",
+    "storage_bucket": "stepbystep-6631e.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1096249287691:android:be8a7f4564b46803efd30e",
+        "android_client_info": {
+          "package_name": "com.example.stepbystep"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1096249287691-lvmul2seo9962iesjsbl6gg1d3cjagns.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.stepbystep",
+            "certificate_hash": "450205572ccf6945ebcb5e6bf6464ac52daa547c"
+          }
+        },
+        {
+          "client_id": "1096249287691-ijbld7oq1mb8kljci1bvfdlg6p9r1ofo.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC_Uz5_f8OuIeFLIp29lWQeznzriJcIk_E"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1096249287691-ijbld7oq1mb8kljci1bvfdlg6p9r1ofo.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
